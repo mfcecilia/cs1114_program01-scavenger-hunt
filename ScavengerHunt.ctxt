@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ScavengerHunt()
+comment0.text=\r\n\ Creates\ a\ new\ ScavengerHunt\ object.\r\n
+comment1.params=
+comment1.target=void\ myProgram()
+comment1.text=\r\n\ Adds\ ScavengerJeroo\ to\ world\ and\ lets\ it\ navigate\ \r\n\ around\ the\ nets\ and\ water\ to\ pick\ all\ the\ flowers.\r\n
+numComments=2

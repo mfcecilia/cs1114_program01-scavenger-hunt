@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=x\ y\ flowers
+comment0.target=ScavengerJeroo(int,\ int,\ int)
+comment0.text=\r\n\ Creates\ a\ new\ ScavengerJeroo\ object\ facing\ east.\r\n\ @param\ x\ \ \ \ \ \ \ \ \ The\ x-coordinate\ of\ the\ Jeroo's\ location.\r\n\ @param\ y\ \ \ \ \ \ \ \ \ The\ y-coordinate\ of\ the\ Jeroo's\ location.\r\n\ @param\ flowers\ \ \ The\ number\ of\ flowers\ the\ Jeroo\ is\ holding.\r\n
+comment1.params=
+comment1.target=void\ moveAhead()
+comment1.text=\r\n\ Move\ forward\r\n
+comment2.params=
+comment2.target=void\ avoidFirstNet()
+comment2.text=\r\n\ Avoid\ the\ first\ net\ obstacle\r\n
+comment3.params=
+comment3.target=void\ avoidSecondNet()
+comment3.text=\r\n\ Avoid\ second\ net\ obstacle\r\n
+comment4.params=
+comment4.target=void\ pickFlowers()
+comment4.text=\r\n\ Pick\ flowers\r\n
+comment5.params=
+comment5.target=void\ avoidFirstWater()
+comment5.text=\r\n\ Avoid\ first\ water\ obstacle\r\n
+comment6.params=
+comment6.target=void\ avoidSecondWater()
+comment6.text=\r\n\ Avoid\ second\ water\ obstacle\r\n
+numComments=7
